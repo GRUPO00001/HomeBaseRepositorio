@@ -9,27 +9,29 @@ Link do Padlet: https://padlet.com/antonioferreira34/homebase-j86p0zccjk78nrvl
 
 ***1.1.  Nome do Grupo***
 
-Indicar o nome e github dos integrantes do grupo
+Nome do grupo: HomeBase
 
-Nome: HomeBase
+Integrantes:
+-Antonio Carlos Ferreira
+-Gustavo Pukanski Schatzmann
+-John Takeo Da Silva Uehara
+-Luis Fernando Rodrigues De Oliveira
+-Luiz Fernando Morerira Domenico
 
 ***1.2.  Nome do Sistema***
 
-Indicar o nome do software proposto
-
-Nome: HomeBase
+Nome do software: HomeBase
 
 ***1.3.  Propósito do Sistema***
 
-Este documento apresenta os requisitos dos usuários a serem desenvolvidos pela *`nome da empresa`*, fornecendo aos desenvolvedores as informações necessárias para o projeto e implementação, assim como para a realização dos testes e homologação do sistema.
+Este documento apresenta os requisitos dos usuários a serem desenvolvidos pela HomeBase, fornecendo aos desenvolvedores as informações necessárias para o projeto e implementação, assim como para a realização dos testes e homologação do sistema.
 
-O objetivo do sistema `nome do sistema` é .... *<Descrever aqui o objetivo do sistema que será desenvolvido, principais características, benefícios, problemas que o sistema ajudará a resolver, o comportamento principal do sistema, etc.>*
+O objetivo do sistema HomeBase é ser um sistema que auxilia empresas no gerenciamento de alojamentos e afins.... *<Descrever aqui o objetivo do sistema que será desenvolvido, principais características, benefícios, problemas que o sistema ajudará a resolver, o comportamento principal do sistema, etc.>*
 
-Propósito: Sistema gerenciador de alojamentos
 
 ***1.2.  Público Alvo***
 
-Este documento se destina aos arquitetos de software, engenheiros de software, testadores, clientes... *<descrever aqui se existir mais interessados e que participarão do desenvolvimento do sistema>*
+Este documento se destina aos arquitetos de software, engenheiros de software, testadores e clientes.
 
 ***1.3. Descrição dos usuários***
 
