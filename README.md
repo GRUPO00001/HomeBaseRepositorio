@@ -27,7 +27,8 @@ Nome do software: HomeBase
 
 Este documento apresenta os requisitos dos usuários a serem desenvolvidos pela HomeBase, fornecendo aos desenvolvedores as informações necessárias para o projeto e implementação, assim como para a realização dos testes e homologação do sistema.
 
-O objetivo do sistema HomeBase é ser um sistema que auxilia empresas no gerenciamento de alojamentos e afins.... *<Descrever aqui o objetivo do sistema que será desenvolvido, principais características, benefícios, problemas que o sistema ajudará a resolver, o comportamento principal do sistema, etc.>*
+O objetivo do sistema HomeBase é ser um sistema que auxilia empresas no gerenciamento de alojamentos e recursos relacionados... 
+*<Descrever aqui o objetivo do sistema que será desenvolvido, principais características, benefícios, problemas que o sistema ajudará a resolver, o comportamento principal do sistema, etc.>*
 
 
 ***1.2.  Público Alvo***
@@ -39,8 +40,6 @@ Este documento se destina aos arquitetos de software, engenheiros de software, t
 *<Descrever quais os usuários finais do sistema (quem vai utilizar o sistema). Neste espaço vocês vão traçar um perfil de usuário, bem como as personas e análide de tarefas>*
 
 ***Personas:***
-
-*<Imagem, arquivo (PDF), link com as Personas.>*
 
 Persona 1: 
 
@@ -76,7 +75,6 @@ Persona 2:
 
 ***2.1. Requisitos Funcionais***
 
-*<Link, imagem, arquivo com os requisitos funcionais.>*
 | Identificador  |Descrição |
 |--	|--|
 | RF01 | O software deve ter filtros de busca para melhorar a eficiência da pesquisa. |
@@ -84,9 +82,9 @@ Persona 2:
 | RF03 |O software deve garantir que os resultados sejam entregues em tempo tolerável. |
 | RF04 |O software deve enviar um relatório diário para o email especificado pelo usuário.|
 | RF05 |O software deve gerar automaticamente um relatório diário, informando o fluxo de alojados e quantidade de produtos que será necessário para serviços adicionais.
-| RF06 |O software  deve permitir a inserção de dados - nome, CPF, RG -  do locatário.|
+| RF06 |O software deve permitir a inserção de dados, como nome, CPF, RG e telefone do locatário.|
 | RF07 |O software deve permitir que a empresa consulte os dados do locatário. |
-| RF08 |O software deve permitir a inserção de dados - Endereço, área do local-  do alojamento. |
+| RF08 |O software deve permitir a inserção de dados, como endereço, $m^2$, número de quartos e número de banheiros do alojamento.|
 | RF09 |O software deve permitir o envio de notificação ao usuário em caso de atualização. |
 | RF10 |O software deve permitir a comunicação entre proprietário e locatário. |
 
