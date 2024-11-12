@@ -12,11 +12,12 @@ Link do Padlet: https://padlet.com/antonioferreira34/homebase-j86p0zccjk78nrvl
 Nome do grupo: HomeBase
 
 Integrantes:
--Antonio Carlos Ferreira
--Gustavo Pukanski Schatzmann
--John Takeo Da Silva Uehara
--Luis Fernando Rodrigues De Oliveira
--Luiz Fernando Morerira Domenico
+
+- Antonio Carlos Ferreira
+- Gustavo Pukanski Schatzmann
+- John Takeo Da Silva Uehara
+- Luis Fernando Rodrigues De Oliveira
+- Luiz Fernando Morerira Domenico
 
 ***1.2.  Nome do Sistema***
 
