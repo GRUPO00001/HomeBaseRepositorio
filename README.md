@@ -42,7 +42,9 @@ Este documento se destina aos arquitetos de software, engenheiros de software, t
 
 *<Imagem, arquivo (PDF), link com as Personas.>*
 
-Persona 1: ![persona1](https://github.com/user-attachments/assets/c431028a-34d6-4c76-a1e7-dcc6b81a5919)
+Persona 1: 
+
+![persona1](https://github.com/user-attachments/assets/c431028a-34d6-4c76-a1e7-dcc6b81a5919)
 
 Persona 2: 
 
