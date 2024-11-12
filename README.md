@@ -77,6 +77,18 @@ Persona 2:
 ***2.1. Requisitos Funcionais***
 
 *<Link, imagem, arquivo com os requisitos funcionais.>*
+| Identificador  |Descrição |
+|--	|--|
+| RF01 | O software deve ter filtros de busca para melhorar a eficiência da pesquisa. |
+|RF02	|O software deve oferecer uma opção de múltiplos critérios de busca, permitindo combinações de usuários. |
+| RF03 |O software deve garantir que os resultados sejam entregues em tempo tolerável. |
+| RF04 |O software deve enviar um relatório diário para o email especificado pelo usuário.|
+| RF05 |O software deve gerar automaticamente um relatório diário, informando o fluxo de alojados e quantidade de produtos que será necessário para serviços adicionais.
+| RF06 |O software  deve permitir a inserção de dados - nome, CPF, RG -  do locatário.|
+| RF07 |O software deve permitir que a empresa consulte os dados do locatário. |
+| RF08 |O software deve permitir a inserção de dados - Endereço, área do local-  do alojamento. |
+| RF09 |O software deve permitir o envio de notificação ao usuário em caso de atualização. |
+| RF10 |O software deve permitir a comunicação entre proprietário e locatário. |
 
 ***2.2. Requisitos Não Funcionais***
 
