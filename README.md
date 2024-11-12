@@ -48,6 +48,9 @@ Persona 1:
 
 Persona 2: 
 
+![persona2](https://github.com/user-attachments/assets/e48c0e3e-3c07-45dc-976b-8d21cb7f5a8f)
+
+
 
 ***Análise da situação atual: antes da introdução de sua solução***
 
