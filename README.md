@@ -79,22 +79,33 @@ Persona 2:
 
 ***2.1. Requisitos Funcionais***
 
-| Identificador  |Descrição |
-|--	|--|
-| RF01 | O software deve ter filtros de busca para melhorar a eficiência da pesquisa. |
-|RF02	|O software deve oferecer uma opção de múltiplos critérios de busca, permitindo combinações de usuários. |
-| RF03 |O software deve garantir que os resultados sejam entregues em tempo tolerável. |
-| RF04 |O software deve enviar um relatório diário para o email especificado pelo usuário.|
-| RF05 |O software deve gerar automaticamente um relatório diário, informando o fluxo de alojados e quantidade de produtos que será necessário para serviços adicionais.
-| RF06 |O software deve permitir a inserção de dados, como nome, CPF, RG e telefone do locatário.|
-| RF07 |O software deve permitir que a empresa consulte os dados do locatário. |
-| RF08 |O software deve permitir a inserção de dados, como endereço, $m^2$, número de quartos e número de banheiros do alojamento.|
-| RF09 |O software deve permitir o envio de notificação ao usuário em caso de atualização. |
-| RF10 |O software deve permitir a comunicação entre proprietário e locatário. |
+| Identificador | Descrição |Depende de|
+|--	|--|--|
+| RF01 |O software deve ter filtros de busca para melhorar a eficiência da pesquisa. |RNF01 |
+| RF02 |O software deve oferecer uma opção de múltiplos critérios de busca, permitindo combinações de usuários. |RNF01 |
+| RF03 |O sistema deve permitir a criação de perfis diferentes para os diversos administradores do alojamento |RNF01 |
+| RF04 |O software deve enviar um relatório diário para o email especificado pelo usuário.|RNF01 |
+| RF05 |O software deve gerar automaticamente um relatório diário, informando o fluxo de alojados e quantidade de produtos que será necessário para serviços adicionais.|RNF01 |
+| RF06 |O software deve permitir a inserção de dados, como nome, CPF, RG e telefone do locatário.|RNF01 |
+| RF07 |O software deve permitir que a empresa consulte os dados do locatário. |RNF01 |
+| RF08 |O software deve permitir que o alojado envie um feedback sobre o alojamento.|RNF01 |
+| RF09 |O software deve permitir o envio de notificação ao usuário em caso de atualização. |RNF01 |
+| RF10 |O software deve permitir a comunicação entre proprietário e locatário. |RNF01 |
 
 ***2.2. Requisitos Não Funcionais***
 
-*<Link, imagem, arquivo com os requisitos não funcionais.>*
+| Identificador  |Descrição |Prioridade|
+|--	|--|--|
+| RNF01 | O sistema deve estar disponível 24 horas por dia. | Alta | |
+| RNF02	| O sistema deve ser acessível em múltiplas plataformas (Windows, iOS, Android) sem perda de funcionalidades. | Alta |
+| RNF03 | O sistema deve responder a qualquer ação do usuário em até 2 segundos, garantindo uma experiência fluida | Alta |
+| RNF04 | A interface deve ser simples e intuitiva, permitindo que o dono do alojamento faça cadastros e acompanhe reservas sem necessidade de treinamento técnico. | Alta |
+| RNF05 | O sistema deve realizar backups automáticos diários para garantir a recuperação de dados em caso de falha ou perda | Alta |
+| RNF06 | O tempo de treinamento necessário para o dono do alojamento e sua equipe aprenderem a usar o sistema deve ser inferior a 4 horas. | Média |
+| RNF07 | O sistema deve permitir atualizações periódicas e manutenção sem interrupção significativa das atividades, com um tempo de inatividade máximo de 2 horas. | Alta |
+| RNF08 | O sistema deve oferecer suporte para múltiplos idiomas | Baixa |
+| RNF09 | Se o sistema for instalado localmente, ele deve ter um consumo de energia eficiente, minimizando o uso de recursos do hardware. | Média |
+| RNF10 | O software deve seguir as regulamentações de proteção de dados, como a LGPD, para garantir a privacidade dos moradores e do proprietário | Alta |
 
 ***2.3. Perguntas***
 
