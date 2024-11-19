@@ -54,8 +54,12 @@ Persona 2:
 ***Análise da situação atual: antes da introdução de sua solução***
 
 *`1. O que as pessoas fazem?`*
+    O locador realiza o controle, gerenciamento de recursos, serviços e se comunica com locatário em diferentes plataformas, não integradas entre si. 
+    O locatário busca informações de forma online ou presencial, realiza reserva por telefone ou e-mail, reporta o problema diretamente com o locador.
+      
 *`2. Quais os artefatos envolvidos?`*
 *`3. O que elas precisam saber?`*
+    O locador precisa ter conhecimento do tempo de estadia do locatário...
 
 ***Análise das tarefas depois: como serão executadas as suas tarefas com sua solução:***
 
