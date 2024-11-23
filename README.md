@@ -112,7 +112,16 @@ Persona 2:
 
 ***2.3. Perguntas***
 
-*<Arquivo com as perguntas realizadas na entrevista .>*
+ 1) Como os alojamentos são realizados atualmente sem um sistem para utilizar?
+ 2) Há planos visando a expansão das operações?
+ 3) Quão rápido ou ágil é a inserção de novos clientes alojados?
+ 4) Quais funcionalidades o sistema teria que o ajudaria?
+ 5) Como tais funcionalidades o ajudarão na prática?
+ 6) Qual a maior dificuldade no gerenciamento de recursos(móveis e entrega de alimentação)?
+ 7) Quanto tempo em média é gasto na atualização dos relatórios acerca dos alojados e dos recursos necessários.
+ 8) Como surgem as oportunidades de negócio?
+ 9) Como é a relação com os alojados?
+ 10) Como a inconsistência de informações é impedida?
 
 ***2.4. Entrevista***
 
