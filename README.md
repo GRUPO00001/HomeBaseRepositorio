@@ -58,12 +58,15 @@ Persona 2:
     O locatário busca informações de forma online ou presencial, realiza reserva por telefone ou e-mail, reporta o problema diretamente com o locador.
       
 *`2. Quais os artefatos envolvidos?`*
+    O locador utiliza ferramentas de gerenciamento de dados(como Excel, Google Planilhas, FreeOffice PlanMaker) e algum aplicativo ou serviço para contato com a empresa interessada (email).
 *`3. O que elas precisam saber?`*
-    O locador precisa ter conhecimento do tempo de estadia do locatário...
+    O locador precisa ter conhecimento do tempo de estadia do locatário, os recursos que serão necessários, quantas pessoas usufruirão o imóvel.
+    O locatário precisa saber o local do imóvel, sua disponiibilidade, o valor que será cobrado pelo uso.
 
 ***Análise das tarefas depois: como serão executadas as suas tarefas com sua solução:***
 
 *`1. O que as pessoas fazem?`*
+    
 *`2. Quais os artefatos envolvidos?`*
 *`3. O que elas precisam saber?`*
 
