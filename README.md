@@ -58,6 +58,7 @@ Persona 2:
     O locatário busca informações de forma online ou presencial, realiza reserva por telefone ou e-mail, reporta o problema diretamente com o locador.
       
 *`2. Quais os artefatos envolvidos?`*
+    Sem o uso do sistema proposto, alguns dos artefatos utilizados são formulários em papel, planilhas no excel, plano de negócio, e outros softwares voltados à funções específicas como     contabilidade e controle de gasto.
     
 *`3. O que elas precisam saber?`*
     O locador precisa ter conhecimento do tempo de estadia do locatário, os recursos que serão necessários, quantas pessoas usufruirão o imóvel.
@@ -68,12 +69,13 @@ Persona 2:
 *`1. O que as pessoas fazem?`*
     O locador informará os dados no HomeBase acerca dos funcionários, alojados, alojamentos, recursos e empresas parceiras.
     O locador, dessa forma, poderá, facilmente, visualizar os dados registrados, assim, podendo gerenciar efetivamento os alojamentos.
+    
 *`2. Quais os artefatos envolvidos?`*
-    
-    
+    Alguns dos artefatos que fazem parte do contexto de desenvolvimento do sistema são o diagrama de caso de uso, Especificação de Requisitos de Software (SRS), histórias dos usuários,     diagrama de atividades e diagrama de classes.
     
 *`3. O que elas precisam saber?`*
-
+    O locador deverá ter conhecimento de ferramentas importantes da aplicação, como adicionar um número de funcionários, determinar os recursos que serão utilizados e suas quantidades,      informar dados do local, como disponibilidade, tamanho, localização, e registrar os valores envolvidos para o controle de gasto e receita; também é importante ter noção de como          realizar consultas, por meio de mecanismos de filtros, a fim de encontrar inconsistências e/ou erros, a fim de correção. 
+    
 ***Cenário: Antes***
 
 O locador mantém o registro ou de maneira manual ou utilizando ferramentas como Excel, google planinhas, e utiliza as mesmas ferramentas para a consulta e verificação dos dados.
@@ -122,7 +124,7 @@ O locador utilizará o sistema HomeBase para realizar a inserção, alteração,
  4) Quais funcionalidades o sistema teria que o ajudaria?
  5) Como tais funcionalidades o ajudarão na prática?
  6) Qual a maior dificuldade no gerenciamento de recursos(móveis e entrega de alimentação)?
- 7) Quanto tempo em média é gasto na atualização dos relatórios acerca dos alojados e dos recursos necessários.
+ 7) Quanto tempo em média é gasto na atualização dos relatórios acerca dos alojados e dos recursos necessários?
  8) Como surgem as oportunidades de negócio?
  9) Como é a relação com os alojados?
  10) Como a inconsistência de informações é impedida?
