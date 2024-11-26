@@ -27,17 +27,17 @@ Nome do software: HomeBase
 
 Este documento apresenta os requisitos dos usuários a serem desenvolvidos pela HomeBase, fornecendo aos desenvolvedores as informações necessárias para o projeto e implementação, assim como para a realização dos testes e homologação do sistema.
 
-O objetivo do sistema HomeBase é ser um sistema que auxilia empresas no gerenciamento de alojamentos e recursos relacionados... 
-*<Descrever aqui o objetivo do sistema que será desenvolvido, principais características, benefícios, problemas que o sistema ajudará a resolver, o comportamento principal do sistema, etc.>*
+O objetivo do sistema HomeBase é ser um sistema que auxilia empresas no cadastro e gestão de alojamentoss, acompanhamento de relatórios e estatísticas, notificações e alertas, interface de usuário amigável e acessível, reservas e alocação de acomodações e controle de faturas e custos.
+Alguns dos benefícios que o sistema possui é a melhoria na gestão de recursos, eficiência e agilidade, relatórios e análises de dados.
+Alguns dos problemas que o sistema visará auxiliar em resolver são desperdício de recursos e custos excessivos e gerenciamento ineficiente de alocação.
+O comportamento geral do sistema é Maximizar a utilização dos alojamentos disponíveis, garantindo que as unidades não fiquem ociosas e sejam usadas de maneira eficiente, calcular os custos associados às estadias, gerar faturas e manter registros financeiros atualizados e Fornecer relatórios detalhados sobre ocupação, custos, e uso de alojamento, oferecendo uma visão clara para os gestores da empresa.
 
 
 ***1.2.  Público Alvo***
 
-Este documento se destina aos arquitetos de software, engenheiros de software, testadores e clientes.
+Este projeto é destinado a empresas que necessitam lidar com o gerenciamento de vários funcionários que deverão estar alojados em um local para exercer o trabalho temporariamente.
 
 ***1.3. Descrição dos usuários***
-
-*<Descrever quais os usuários finais do sistema (quem vai utilizar o sistema). Neste espaço vocês vão traçar um perfil de usuário, bem como as personas e análide de tarefas>*
 
 ***Personas:***
 
@@ -58,7 +58,7 @@ Persona 2:
     O locatário busca informações de forma online ou presencial, realiza reserva por telefone ou e-mail, reporta o problema diretamente com o locador.
       
 *`2. Quais os artefatos envolvidos?`*
-    O locador utiliza ferramentas de gerenciamento de dados(como Excel, Google Planilhas, FreeOffice PlanMaker) e algum aplicativo ou serviço para contato com a empresa interessada (email).
+    
 *`3. O que elas precisam saber?`*
     O locador precisa ter conhecimento do tempo de estadia do locatário, os recursos que serão necessários, quantas pessoas usufruirão o imóvel.
     O locatário precisa saber o local do imóvel, sua disponiibilidade, o valor que será cobrado pelo uso.
@@ -66,17 +66,21 @@ Persona 2:
 ***Análise das tarefas depois: como serão executadas as suas tarefas com sua solução:***
 
 *`1. O que as pessoas fazem?`*
-    
+    O locador informará os dados no HomeBase acerca dos funcionários, alojados, alojamentos, recursos e empresas parceiras.
+    O locador, dessa forma, poderá, facilmente, visualizar os dados registrados, assim, podendo gerenciar efetivamento os alojamentos.
 *`2. Quais os artefatos envolvidos?`*
+    
+    
+    
 *`3. O que elas precisam saber?`*
 
 ***Cenário: Antes***
 
-*<Preencher com o cenário idealizado antes da aplicação do seu sistema.>*
+O locador mantém o registro ou de maneira manual ou utilizando ferramentas como Excel, google planinhas, e utiliza as mesmas ferramentas para a consulta e verificação dos dados.
 
 ***Cenário: Depois***
 
-*<Preencher com o cenário idealizado depois da aplicação do seu sistema.>*
+O locador utilizará o sistema HomeBase para realizar a inserção, alteração, verificação de dados acerca dos funcionários, dos recursos, dos alojamentos, dos alojados e do controle financeiro de maneira mais organizada.
 
 ## 2. Documentos gerais no repositório
 
