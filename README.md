@@ -131,7 +131,7 @@ O locador utilizará o sistema HomeBase para realizar a inserção, alteração,
 
 ***2.4. Entrevista***
 
-*<Arquivo com as respostas do indivíduo entrevistado e link do drive com upload da gravação.>*
+link da entrevista: https://drive.google.com/file/d/1ci5w6SYvhhyhM8anPmDX3EpIFLMlYFH5/view?usp=drive_link
 
 ***2.5. Histórias do Usuário***
 
