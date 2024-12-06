@@ -135,7 +135,57 @@ link da entrevista: https://drive.google.com/file/d/1ci5w6SYvhhyhM8anPmDX3EpIFLM
 
 ***2.5. Histórias do Usuário***
 
-*<Imagem, arquivo (PDF), link com as Histórias de Usuário.>*
+**US001**  
+- **Como** um usuário dono da empresa principal,  
+- **Eu** quero me cadastrar no sistema,  
+- **Para** gerenciar os dados acerca dos recursos alocados, quais funcionários estarão alojados, o tempo de estadia e o custo da operação.
+
+**US002**  
+- **Como** um usuário dono da empresa principal,  
+- **Eu** quero registrar e atualizar informações de acordo com o feedback recebido dos funcionários e da empresa parceira,  
+- **Para** garantir que o sistema reflita as necessidades e opiniões de todas as partes envolvidas.
+
+**US003**  
+- **Como** um usuário dono da empresa principal,  
+- **Eu** quero visualizar relatórios detalhados sobre ocupação e custos,  
+- **Para** monitorar o desempenho financeiro e operacional do meu negócio.
+
+**US004**  
+- **Como** um usuário dono da empresa principal,  
+- **Eu** quero configurar notificações automáticas sobre a necessidade de recursos,  
+- **Para** otimizar os processos de logística e evitar desperdícios.
+
+**US005**  
+- **Como** um usuário dono da empresa principal,  
+- **Eu** quero rastrear em tempo real quais recursos estão sendo mais utilizados,  
+- **Para** ajustar a oferta e reduzir custos.
+
+**US006**  
+- **Como** um funcionário alojado,  
+- **Eu** quero poder registrar solicitações, como manutenção ou troca de quarto,  
+- **Para** garantir melhores condições durante minha estadia.
+
+**US007**  
+- **Como** um funcionário alojado,  
+- **Eu** quero acessar informações detalhadas sobre serviços adicionais disponíveis,  
+- **Para** planejar e usufruir melhor dos recursos durante minha estadia.
+
+**US008**  
+- **Como** uma empresa parceira,  
+- **Eu** quero consultar o histórico de feedbacks enviados pelos meus funcionários,  
+- **Para** identificar áreas de melhoria na relação com o alojamento.
+
+**US009**  
+- **Como** uma empresa parceira,  
+- **Eu** quero cadastrar informações sobre turnos e horários de trabalho dos meus funcionários,  
+- **Para** facilitar a organização e compatibilidade com o alojamento.
+
+**US010**  
+- **Como** uma empresa parceira,  
+- **Eu** quero acessar relatórios consolidados sobre as estadias dos meus funcionários,  
+- **Para** justificar despesas e apresentar dados à diretoria.
+
+
 
 ***2.6. Diagramas de Caso de Uso e Especificações***
 
