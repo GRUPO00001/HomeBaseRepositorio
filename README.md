@@ -90,7 +90,7 @@ O locador utilizará o sistema HomeBase para realizar a inserção, alteração,
 
 | Identificador | Descrição |Depende de|
 |--	|--|--|
-| RF01 |O software deve ter filtros de busca para melhorar a eficiência da pesquisa. | |
+| RF01 |O software deve ter filtros de busca, nome, data, status do locatário e localização, para melhorar a eficiência da pesquisa. | |
 | RF02 |O software deve oferecer uma opção de múltiplos critérios de busca, permitindo combinações de usuários. | |
 | RF03 |O sistema deve permitir a criação de perfis diferentes para os diversos administradores do alojamento |RNF01 |
 | RF04 |O software deve gerar automaticamente um relatório diário, informando o fluxo de alojados e quantidade de produtos que será necessário para serviços adicionais. Este relatório deve ser enviado para o email especificado pelo usuário.|RNF05 |
@@ -111,7 +111,7 @@ O locador utilizará o sistema HomeBase para realizar a inserção, alteração,
 | RNF04 | A interface deve ser simples e intuitiva, permitindo que o dono do alojamento faça cadastros e acompanhe reservas sem necessidade de treinamento técnico. O tempo de treinamento necessário para o dono do alojamento e sua equipe aprenderem a usar o sistema deve ser inferior a 4 horas. | Alta |
 | RNF05 | O sistema deve realizar backups automáticos diários para garantir a recuperação de dados em caso de falha ou perda | Alta |
 | RNF06 | O sistema deve permitir atualizações periódicas e manutenção sem interrupção significativa das atividades, com um tempo de inatividade máximo de 2 horas. | Alta |
-| RNF07 | O sistema deve oferecer suporte para múltiplos idiomas | Baixa |
+| RNF07 | O sistema deve oferecer suporte para múltiplos idiomas (Português, Inglês e Espanhol). | Baixa |
 | RNF08 | Se o sistema for instalado localmente, ele deve ter um consumo de energia eficiente, minimizando o uso de recursos do hardware. | Média |
 | RNF09 | O software deve seguir as regulamentações de proteção de dados, como a LGPD, para garantir a privacidade dos moradores e do proprietário | Alta |
 | RNF10 | O software deve usar criptografia de ponta a ponta (end-to-end encryption) para garantir que os dados sensíveis não sejam acessíveis por partes não autorizadas, tanto em trânsito quanto em repouso. | Alta |
