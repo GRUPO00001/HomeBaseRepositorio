@@ -94,11 +94,12 @@ O locador utilizará o sistema HomeBase para realizar a inserção, alteração,
 | RF02 |O software deve oferecer uma opção de múltiplos critérios de busca, permitindo combinações de usuários. | |
 | RF03 |O sistema deve permitir a criação de perfis diferentes para os diversos administradores do alojamento |RNF01 |
 | RF04 |O software deve gerar automaticamente um relatório diário, informando o fluxo de alojados e quantidade de produtos que será necessário para serviços adicionais. Este relatório deve ser enviado para o email especificado pelo usuário.|RNF05 |
-| RF05 |O software deve permitir a inserção de dados, como nome, CPF, RG e telefone do locatário.|RNF01, RNF09 |
-| RF06 |O software deve permitir que a empresa consulte os dados do locatário. |RNF01, RNF09 |
-| RF07 |O software deve permitir que o alojado envie um feedback sobre o alojamento.|RNF01, RNF09 |
+| RF05 |O software deve permitir a inserção de dados, como nome, CPF, RG e telefone do locatário.|RNF01, RNF09, RNF10 |
+| RF06 |O software deve permitir que a empresa consulte os dados do locatário. |RNF01, RNF09, RNF10 |
+| RF07 |O software deve permitir que o alojado envie um feedback sobre o alojamento.|RNF01, RNF09, RNF10 |
 | RF08 |O software deve permitir o envio de notificação ao usuário em caso de atualização. |RNF07 |
-| RF09 |O software deve permitir a comunicação entre proprietário e locatário. |RNF01, RNF07 |
+| RF09 |O software deve permitir a comunicação entre proprietário e locatário. |RNF01, RNF07, RNF10 |
+| RF10 |O software deve realizar verificações automáticas para detectar e bloquear ataques comuns, como SQL Injection, Cross-Site Scripting (XSS) e Cross-Site Request Forgery (CSRF). | |
 
 ***2.2. Requisitos Não Funcionais***
 
@@ -113,6 +114,7 @@ O locador utilizará o sistema HomeBase para realizar a inserção, alteração,
 | RNF07 | O sistema deve oferecer suporte para múltiplos idiomas | Baixa |
 | RNF08 | Se o sistema for instalado localmente, ele deve ter um consumo de energia eficiente, minimizando o uso de recursos do hardware. | Média |
 | RNF09 | O software deve seguir as regulamentações de proteção de dados, como a LGPD, para garantir a privacidade dos moradores e do proprietário | Alta |
+| RNF10 | O software deve usar criptografia de ponta a ponta (end-to-end encryption) para garantir que os dados sensíveis não sejam acessíveis por partes não autorizadas, tanto em trânsito quanto em repouso. | Alta |
 
 ***2.3. Perguntas***
 
