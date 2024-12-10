@@ -94,9 +94,9 @@ O locador utilizará o sistema HomeBase para realizar a inserção, alteração,
 | RF02 |O software deve oferecer uma opção de múltiplos critérios de busca, permitindo combinações de usuários. | |
 | RF03 |O sistema deve permitir a criação de perfis diferentes para os diversos administradores do alojamento |RNF01 |
 | RF04 |O software deve gerar automaticamente um relatório diário, informando o fluxo de alojados e quantidade de produtos que será necessário para serviços adicionais. Este relatório deve ser enviado para o email especificado pelo usuário.|RNF05 |
-| RF05 |O software deve permitir a inserção de dados, como nome, CPF, RG e telefone do locatário.|RNF01, RNF10 |
-| RF06 |O software deve permitir que a empresa consulte os dados do locatário. |RNF01, RNF10 |
-| RF07 |O software deve permitir que o alojado envie um feedback sobre o alojamento.|RNF01, RNF10 |
+| RF05 |O software deve permitir a inserção de dados, como nome, CPF, RG e telefone do locatário.|RNF01, RNF09 |
+| RF06 |O software deve permitir que a empresa consulte os dados do locatário. |RNF01, RNF09 |
+| RF07 |O software deve permitir que o alojado envie um feedback sobre o alojamento.|RNF01, RNF09 |
 | RF08 |O software deve permitir o envio de notificação ao usuário em caso de atualização. |RNF07 |
 | RF09 |O software deve permitir a comunicação entre proprietário e locatário. |RNF01, RNF07 |
 
