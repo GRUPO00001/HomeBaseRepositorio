@@ -95,10 +95,10 @@ O locador utilizará o sistema HomeBase para realizar a inserção, alteração,
 | RF03 |O sistema deve permitir a criação de perfis diferentes para os diversos administradores do alojamento |RNF01 |
 | RF04 |O software deve gerar automaticamente um relatório diário, informando o fluxo de alojados e quantidade de produtos que será necessário para serviços adicionais. Este relatório deve ser enviado para o email especificado pelo usuário.|RNF05 |
 | RF05 |O software deve permitir a inserção de dados, como nome, CPF, RG e telefone do locatário.|RNF01, RNF09, RNF10 |
-| RF06 |O software deve permitir que a empresa consulte os dados do locatário. |RNF01, RNF09, RNF10 |
-| RF07 |O software deve permitir que o alojado envie um feedback sobre o alojamento.|RNF01, RNF09, RNF10 |
-| RF08 |O software deve permitir o envio de notificação ao usuário em caso de atualização. |RNF07 |
-| RF09 |O software deve permitir a comunicação entre proprietário e locatário. |RNF01, RNF07, RNF10 |
+| RF06 |O software deve permitir que a empresa consulte os dados do locatário, com critérios de busca definidos, como nome, CPF ou número de contrato. O acesso a esses dados deve ser restrito a usuários autorizados, com controle de permissões e registro de auditoria para garantir a segurança e a privacidade das informações. |RNF01, RNF09, RNF10 |
+| RF07 |O software deve permitir que o alojado envie um feedback sobre o alojamento por meio de um formulário de avaliação, que inclua campos como notas de satisfação e comentários. O feedback será armazenado em banco de dados seguro e acessível apenas para usuários autorizados, como a administração do sistema, e será associado ao respectivo alojamento para facilitar o acompanhamento.|RNF01, RNF09, RNF10 |
+| RF08 |O software deve enviar notificações ao usuário sempre que houver uma atualização relevante para ele, como mudanças no status da reserva ou modificações nas condições do contrato. As notificações serão enviadas por e-mail e/ou aplicativo, conforme a preferência do usuário, e devem ser configuráveis pelo próprio usuário nas configurações da conta. |RNF07 |
+| RF09 |O software deve permitir a comunicação direta entre o proprietário e o locatário por meio de um sistema de mensagens interno. O proprietário poderá iniciar a comunicação com o locatário a partir da visualização de seu contrato ou perfil, e o locatário poderá responder a mensagens relacionadas ao seu alojamento. O sistema deve garantir que todas as mensagens sejam registradas para fins de auditoria, sendo acessíveis apenas por ambas as partes envolvidas, salvo em situações excepcionais que requeiram mediação. |RNF01, RNF07, RNF10 |
 | RF10 |O software deve realizar verificações automáticas para detectar e bloquear ataques comuns, como SQL Injection, Cross-Site Scripting (XSS) e Cross-Site Request Forgery (CSRF). | |
 
 ***2.2. Requisitos Não Funcionais***
