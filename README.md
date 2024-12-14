@@ -191,6 +191,9 @@ link da entrevista: https://drive.google.com/file/d/1ci5w6SYvhhyhM8anPmDX3EpIFLM
 
 *<Imagem, arquivo (PDF), link com Diagrama de Caso de Uso.>*
 
+![Caso de Uso](https://github.com/user-attachments/assets/b9e4597b-43ce-4d49-a18d-d97accb54ac5)
+
+
 ***2.7. Diagramas de Atividades***
 
 *<Imagem, arquivo (PDF), link com Diagrama de Atividades.>*
@@ -198,6 +201,8 @@ link da entrevista: https://drive.google.com/file/d/1ci5w6SYvhhyhM8anPmDX3EpIFLM
 ***2.8. Matrizes de Rastreabilidade***
 
 *<Imagem, arquivo (PDF), link com Matriz de Rastreabilidade.>*
+
+Diagrama de classe
 
 ***2.9. Protótipos***
 
