@@ -204,6 +204,9 @@ link da entrevista: https://drive.google.com/file/d/1ci5w6SYvhhyhM8anPmDX3EpIFLM
 
 Diagrama de classe
 
+![diagramaClasses](https://github.com/user-attachments/assets/778e15a0-28ac-4fc9-90f2-f999da2d0bd7)
+
+
 ***2.9. Protótipos***
 
 *<Imagem, arquivo (PDF), link com Protótipo.>*
