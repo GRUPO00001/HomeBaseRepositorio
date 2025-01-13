@@ -204,7 +204,8 @@ link da entrevista: https://drive.google.com/file/d/1ci5w6SYvhhyhM8anPmDX3EpIFLM
 
 ***2.7. Diagramas de Atividades***
 
-*<Imagem, arquivo (PDF), link com Diagrama de Atividades.>*
+![Diagrama de Atividade](https://github.com/user-attachments/assets/987bb246-9ff1-48ab-b8b0-8ba064c932ef)
+
 
 ***2.8. ~~Matrizes de Rastreabilidade~~ Diagrama de Classe***
 ![diagramaDeClasse](https://github.com/user-attachments/assets/52b00e16-7ecd-49d1-abf1-0df57966a8ee)
