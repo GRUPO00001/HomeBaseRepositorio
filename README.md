@@ -197,7 +197,7 @@ link da entrevista: https://drive.google.com/file/d/1ci5w6SYvhhyhM8anPmDX3EpIFLM
 *<Imagem, arquivo (PDF), link com Diagrama de Atividades.>*
 
 ***2.8. ~~Matrizes de Rastreabilidade~~ Diagrama de Classe***
-![diagramaDeClasse](https://github.com/user-attachments/assets/07ad1735-3f82-4f5e-ac5b-df2a8283c7ad)
+![diagramaDeClasse](https://github.com/user-attachments/assets/52b00e16-7ecd-49d1-abf1-0df57966a8ee)
 
 ***2.9. Protótipos***
 
