@@ -191,6 +191,17 @@ link da entrevista: https://drive.google.com/file/d/1ci5w6SYvhhyhM8anPmDX3EpIFLM
 
 ![Caso de Uso](https://github.com/user-attachments/assets/4d5d6b49-2a31-407d-bbdd-36a9c1c243c8)
 
+![1](https://github.com/user-attachments/assets/58ba8c64-f537-4bd1-9eba-ca3b0c465502)
+![2](https://github.com/user-attachments/assets/d1488024-0685-47a4-9709-a7b464291bdb)
+![3](https://github.com/user-attachments/assets/b27f3ef9-a9b5-4224-a170-1398195b4a36)
+![4](https://github.com/user-attachments/assets/0b1e983d-b6ef-4c06-b86f-3924f3b60c02)
+![5](https://github.com/user-attachments/assets/a802930f-daaa-4ae2-8c7a-ab84a87dd346)
+![6](https://github.com/user-attachments/assets/41fe8979-9ed4-45b1-907d-a7bcf362dd79)
+![7](https://github.com/user-attachments/assets/95114300-58f7-42af-8a96-dbfca32e1f2c)
+![8](https://github.com/user-attachments/assets/d93c0b48-696a-4fa5-90bc-f75accebd227)
+
+
+
 ***2.7. Diagramas de Atividades***
 
 *<Imagem, arquivo (PDF), link com Diagrama de Atividades.>*
