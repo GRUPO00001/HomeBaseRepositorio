@@ -189,8 +189,7 @@ link da entrevista: https://drive.google.com/file/d/1ci5w6SYvhhyhM8anPmDX3EpIFLM
 
 ***2.6. Diagramas de Caso de Uso e Especificações***
 
-![Caso de Uso](https://github.com/user-attachments/assets/b9e4597b-43ce-4d49-a18d-d97accb54ac5)
-
+![Caso de Uso](https://github.com/user-attachments/assets/4d5d6b49-2a31-407d-bbdd-36a9c1c243c8)
 
 ***2.7. Diagramas de Atividades***
 
