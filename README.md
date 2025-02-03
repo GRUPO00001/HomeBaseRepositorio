@@ -212,10 +212,4 @@ link da entrevista: https://drive.google.com/file/d/1ci5w6SYvhhyhM8anPmDX3EpIFLM
 
 ***2.9. Protótipos***
 
-*<Imagem, arquivo (PDF), link com Protótipo.>*
-
-## Referências
-
-*<Esta seção é destinada à descrição das referências utilizadas pelo documento, como por exemplo, URLs e livros. Ver exemplo a seguir:>*
-
-[1] “Glossário da _USina_”, <_id_doc glossário_>, Versão <_versão_>. Localização: <_localização_>.
+https://ninjamock.com/s/LQX32Lx
